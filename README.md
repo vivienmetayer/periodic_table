@@ -1,6 +1,6 @@
 # periodic_table
 
-Perdiodic Table
+Simple periodic table, made with flutter
 
 ## Getting Started
 
